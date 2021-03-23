@@ -1,0 +1,5 @@
+Saya sedang belajar Git.
+Saya sudah lumayan paham Git
+Saya sudah sangat paham Git
+Teks ini adalah perubahan pada cabang1
+
